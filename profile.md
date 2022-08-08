@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @coder-shubh
 - 👀 I’m interested in andorid development
+- 🌱 Previously i was working on Android Studio
 - 🌱 I’m currently learning  React Native
 - 💞️ I’m looking to collaborate with organization where i can Learn or Upskills my current skils
 - 📫 How to reach me  - Shubhamsingh00222.ss@gmail.com
