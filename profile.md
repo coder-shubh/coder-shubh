@@ -32,7 +32,7 @@ Let's connect and collaborate! You can find me on:
 
 - 🌐 [LinkedIn](www.linkedin.com/in/shubham-singh-503589203)
 - 📫 [Email](Shubhamsingh00222.ss@gmail.com)
-- 📷 [Instagram](https://www.instagram.com/yourinstagramhandle)
+
 
 Feel free to reach out if you'd like to discuss a project, share knowledge, or just have a friendly chat. I'm always excited to connect with fellow developers and tech enthusiasts!
 
