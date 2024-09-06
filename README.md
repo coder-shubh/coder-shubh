@@ -56,4 +56,4 @@ Let's connect and collaborate! You can find me on:
 
 I'm excited to connect with fellow developers and tech enthusiasts. Whether it's discussing a project, sharing knowledge, or just having a friendly chat, don't hesitate to reach out!
 
-![Coding](https://media.giphy.com/media/code-programming-php-html-13WPqIzzl4yUmk/giphy.gif)
+![Coding]([https://media.giphy.com/media/code-programming-php-html-13WPqIzzl4yUmk/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZpcGdicXhzdjY0emR2ZDA4dHdwZnpzbHF6bHNmZnoxM2l6aWk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVrgTQpLDUnweqtIlH/giphy.gif))
