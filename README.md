@@ -1,4 +1,4 @@
-# Hello, I'm Code-shubh 👋
+# Hello, I'm code-shubh 👋
 
 Welcome to my GitHub profile! I'm a **Mobile Application Developer** with a passion for crafting exceptional mobile experiences. I specialize in both iOS and Android development and am proficient in creating cross-platform applications. Explore my projects and connect with me to discuss potential collaborations or share insights!
 
