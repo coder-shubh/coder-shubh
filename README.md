@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Mobile Application Developer** with a pass
 
 Here's a glimpse of the technologies and tools I work with:
 
-- **Languages**: Java, Kotlin, Swift, Objective-C, JavaScript
+- **Languages**: Java, Kotlin, Swift, Objective-C, JavaScript, TypeScript
 - **Frameworks**: React Native, Flutter
 - **Tools**: Git, RESTful APIs
 - **Design**: UI/UX Design Principles
@@ -26,6 +26,22 @@ Here's a glimpse of the technologies and tools I work with:
 ## Featured Projects
 
 Here are some of my standout projects:
+
+### 🛠️ [ReadmeBuddy](https://readmebuddy.com/)
+A powerful tool that helps developers generate clean, structured, and professional README files with ease. Features include:
+- AI-powered README generation
+- Ready-to-use clean templates
+- Fast and time-saving workflow
+- Easy customization options
+
+### 🖼️ [mPoster](https://play.google.com/store/apps/details?id=com.mposter)  
+Design eye-catching posters in seconds! Key features:  
+- Upload a leader’s or any photo and auto-remove its background  
+- Customize text: add your own message, quote, or headline 
+- Full creative control: drag, drop, resize text or images freely  
+- Choose whether to include a photo or not before sharing  
+- Quick sharing: post directly or set as WhatsApp status 
+- No design skills required — perfect for social campaigns, political, community, or event posters 
 
 ### 🏦 [Digital Wallet](#)
 An enterprise-level application designed for secure financial transactions. Key features include:
