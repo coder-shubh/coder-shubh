@@ -49,12 +49,6 @@ An enterprise-level application designed for secure financial transactions. Key 
 - Comprehensive transaction history
 - Advanced security measures
 
-### 🎨 [Custom Poster Maker](#)
-A dynamic tool for creating and customizing posters. Highlights include:
-- A variety of templates and design elements
-- Intuitive editing tools
-- Options for personal and professional use
-
 ### 📚 [Vocabulary Learning App](#)
 An educational app aimed at enhancing vocabulary skills. Features include:
 - Interactive quizzes
